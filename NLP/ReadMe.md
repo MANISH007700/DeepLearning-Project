@@ -6,7 +6,13 @@
 ## Label : 
 ### 1 - Deathnote-script.txt : This is the data which is used to train the model
 ### 2 - lstm-text-generation.ipynb : The LSTM notebook file for the codes
+
+### Lstm output
+![LSTM-OUTPUT](lstm-op.png)
 ### 3 - bilstm-text-generation.ipynb : The BI-LSTM notebook file for the codes
+
+### Bi-Lstm output
+![BI-LSTM-OUTPUT](bi-lstm-op.png)
 
 
 ### If you like this , do give a star :)
