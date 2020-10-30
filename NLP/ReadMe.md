@@ -2,7 +2,7 @@
 ## DeathNote - Anime .
 ![Deathnote](deathnote.jpg)
 
-### I have used LSTM model to predict the future text of deathnote anime series based on prior inputs using LSTM and Bi-LSTM model .
+### I have used LSTM and BI-LSTM model to predict the future text of deathnote anime series based on prior inputs.
 ## Label : 
 ### 1 - Deathnote-script.txt : This is the data which is used to train the model
 ### 2 - lstm-text-generation.ipynb : The LSTM notebook file for the codes
